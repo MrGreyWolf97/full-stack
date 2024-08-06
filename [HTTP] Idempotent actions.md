@@ -1,5 +1,3 @@
-# [HTTP] Idempotent actions
-
 ### Idempotent actions
 
 An idempotent action is ***an operation that can be performed multiple times without changing the result or causing unintended side effects*** beyond the initial application.

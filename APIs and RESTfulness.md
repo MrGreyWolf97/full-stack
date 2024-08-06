@@ -1,5 +1,3 @@
-# APIs and RESTfulness
-
 ## API
 
 An API, or **Application Programming Interface**, is a set of rules, protocols, and tools that allows different software applications to communicate with each other.

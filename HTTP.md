@@ -1,12 +1,10 @@
-# HTTP
-
-|  | GET | POST | PUT | DELTE |
-| --- | --- | --- | --- | --- |
-| PURPOSE | Used to retrieve data from a server | Used to create a new resource on the server or submit data for processing | Used to update an existing resource or create a new one if it does not exist | Used to remove a resource from the server |
-| IDEMPOTENT | ✅ | ❌ | ✅ | ✅ |
-| SAFE | ✅ | ❌ | ❌ | ❌ |
-| PAYLOAD | ❌ | ✅ | ✅ | ❌ |
-| CACHEABLE | ✅ | ❌ | ❌ | ❌ |
+|            | GET                                 | POST                                                                      | PUT                                                                          | DELTE                                     |
+| ---------- | ----------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------- |
+| PURPOSE    | Used to retrieve data from a server | Used to create a new resource on the server or submit data for processing | Used to update an existing resource or create a new one if it does not exist | Used to remove a resource from the server |
+| IDEMPOTENT | ✅                                   | ❌                                                                         | ✅                                                                            | ✅                                         |
+| SAFE       | ✅                                   | ❌                                                                         | ❌                                                                            | ❌                                         |
+| PAYLOAD    | ❌                                   | ✅                                                                         | ✅                                                                            | ❌                                         |
+| CACHEABLE  | ✅                                   | ❌                                                                         | ❌                                                                            | ❌                                         |
 
 ## GET
 

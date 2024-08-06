@@ -12,7 +12,7 @@ Repository containing documentation relatively the mostly asked questions and to
 - [JVM](JVM/README.md)
 - [Design Patterns](Design%20Patterns.md)
 - [Data structures](Data%20structures.md)
-- [Algorithm](Algorithm.md)
+- [Algorithms](Algorithms.md)
 ---
 ### Front-end
 - [Dynamic websites](Dynamic%20websites.md)

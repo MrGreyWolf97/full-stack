@@ -1,5 +1,3 @@
-# Repository vs DAO/DTO
-
 DAO (Data Access Object), DTO (Data Transfer Object), and Repository are design patterns used in software development, particularly in applications that deal with data storage, retrieval, and manipulation. Each pattern serves a specific purpose and helps maintain a clean architecture and separation of concerns.
 
 ---

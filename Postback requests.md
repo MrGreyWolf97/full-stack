@@ -1,5 +1,3 @@
-# Postback requests
-
 A postback request is a term used in web development to describe the process where a web page sends a request to the same page on the server.
 
 This is commonly seen in server-side scripting languages like [ASP.NET](http://asp.net/) and PHP.

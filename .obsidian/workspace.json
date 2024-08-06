@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server sent events.md",
+                "file": "[HTTP] Idempotent actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server sent events.md",
+                "file": "[HTTP] Idempotent actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server sent events.md",
+                "file": "[HTTP] Idempotent actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server sent events.md"
+                "file": "[HTTP] Idempotent actions.md"
               }
             }
           }
@@ -146,20 +146,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d01fc62097e77ef",
+  "active": "f56d7b6905298568",
   "lastOpenFiles": [
-    "Repository vs DAO DTO.md",
-    "RabbitMQ.md",
-    "Postback requests.md",
-    "MVC.md",
-    "Kafka.md",
-    "HTTP.md",
-    "Dynamic websites.md",
-    "Design Patterns.md",
-    "Declarative programming.md",
-    "Data structures.md",
+    "Algorithms.md",
     "APIs and RESTfulness.md",
-    "Algorithm.md",
+    "CMS - Content Management System.md",
+    "Data structures.md",
+    "Declarative programming.md",
+    "Design Patterns.md",
+    "Dynamic websites.md",
+    "HTTP.md",
+    "Kafka.md",
+    "MVC.md",
+    "README.md",
+    "Postback requests.md",
+    "RabbitMQ.md",
+    "Server sent events.md",
+    "Repository vs DAO DTO.md",
     "[HTTP] Idempotent actions.md",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/README.md",
     "Relational/Consistency a53755ad08664f14b87cdb8b798877eb/README.md",
@@ -169,12 +172,9 @@
     "JVM/JAVA/README.md",
     "JVM/README.md",
     "JVM/KOTLIN/README.md",
-    "README.md",
     "Google Interview/README.md",
     "JPA + Hibernate/README.md",
     "JavaScript - Typescript/README.md",
-    "Bash/Linux file-system 9200295218804e73a40da9ada44bed07/README.md",
-    "Bash/Commands d02b37d7104248dd8821eb53e17f46a3/README.md",
     "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/Untitled.png",
     "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/2.Coll_Inter.png",
     "Relational/Consistency a53755ad08664f14b87cdb8b798877eb/Untitled.png",

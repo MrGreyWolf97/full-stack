@@ -1,5 +1,3 @@
-# Declarative programming
-
 Declarative programming is a style of programming where you express what you want to achieve without explicitly detailing how to do it.
 
 This is in contrast to imperative programming, where you must provide a step-by-step process to achieve the desired outcome.

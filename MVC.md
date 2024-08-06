@@ -1,5 +1,3 @@
-# MVC
-
 Model-View-Controller (MVC)  MVC is a design pattern often used in web development frameworks.
 
 ---

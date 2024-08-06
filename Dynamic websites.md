@@ -1,5 +1,3 @@
-# Dynamic websites
-
 In web design, static and dynamic websites refer to the way they display content.
 
 > A static website offers the same content to all visitors, while a dynamic website can tailor content per individual visitor.
