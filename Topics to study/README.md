@@ -90,9 +90,9 @@ To be used for communication between different services, not inside the same app
         
         [JSP (Java Server Page)](JSP%20(Java%20Server%20Page)%20819fc6e6a98a4e649f60069a9b90137f.md)
         
-        [JMS](JMS%20a31e20ac5dc64b5aafb7a35c4bf1a6d3.md)
+        [JMS](JMS.md)
         
-        [Servlets](Servlets%205cf9c2e1aa994d9b85668558098c40f6.md)
+        [Servlets](Servlets.md)
         
     
     [Java Project (my experience)](Java%20Project%20(my%20experience)%208a50617e506945d7a795fa01de6fdb24.md)

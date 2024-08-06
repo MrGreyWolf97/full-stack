@@ -10,7 +10,7 @@
 
 [Object Properties (don’t exist)](Object%20Properties%20(don’t%20exist)%20e6b26dbf608945349e33dc01235a0b6c.md)
 
-[[IPAE] The four fundamental principles of OOP]([IPAE]%20The%20four%20fundamental%20principles%20of%20OOP%2049483a4cdf234d8ca907817aefd99b6c.md)
+[[IPAE] The four fundamental principles of OOP](JVM/JAVA/IPAE%20-%20The%20four%20fundamental%20principles%20of%20OOP/README.md)
 
 [JDK - JRE - JVM](JDK%20-%20JRE%20-%20JVM%204513547064974a90872426d44840b846.md)
 
@@ -104,7 +104,7 @@
 
 [ThreadLocal](ThreadLocal%20cc31bd8714c34938a1cd9fe2409c3c81.md)
 
-[Synchronization](Synchronization%200e9f086edd1549d9a699be70c4bd81f0.md)
+[README](JVM/JAVA/Synchronization%200e9f086edd1549d9a699be70c4bd81f0/README.md)
 
 [Deadlock](Deadlock%20555ab4253c354bdb9316cd46250e282f.md)
 

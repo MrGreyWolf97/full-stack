@@ -4,28 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bde119478f8fa4",
+        "id": "b0e6d38cb3bea1a6",
         "type": "tabs",
+        "dimension": 86.43101482326112,
         "children": [
           {
-            "id": "f56d7b6905298568",
+            "id": "6123e3292bbfd423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hibernate vs Spring Data JPA.md",
+                "file": "JPA & Co./README.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4be49342623941e4",
+        "type": "tabs",
+        "dimension": 13.568985176738884,
+        "children": [
           {
-            "id": "1ef588d4bee02367",
+            "id": "4c59597a4a0ef80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA & Co./JPA query types.md",
+                "file": "File Graphic Components Palette.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 538.5015258789062
   },
   "right": {
     "id": "5f4b357665513b14",
@@ -97,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hibernate vs Spring Data JPA.md",
+                "file": "JPA & Co./README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hibernate vs Spring Data JPA.md",
+                "file": "JPA & Co./README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hibernate vs Spring Data JPA.md"
+                "file": "JPA & Co./README.md"
               }
             }
           }
@@ -159,48 +167,48 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f56d7b6905298568",
+  "active": "3d01fc62097e77ef",
   "lastOpenFiles": [
-    "JPA & Co./README.md",
-    "Hibernate.md",
-    "Hibernate vs Spring Data JPA.md",
-    "README.md",
-    "JPA & Co./Overview.md",
-    "JPA & Co./JPA optimistic locking 44c4303cde734c338c40f2a001070233.md",
-    "JPA & Co./JPA query types.md",
-    "JVM/JAVA/README.md",
-    "JVM/JAVA/Glossary of possible topics b0afb0ab434c4580af7cc3d606f69287.md",
-    "JVM/README.md",
-    "RabbitMQ.md",
-    "[HTTP] Idempotent actions.md",
-    "Algorithms.md",
-    "APIs and RESTfulness.md",
-    "CMS - Content Management System.md",
-    "Data structures.md",
-    "Declarative programming.md",
-    "Design Patterns.md",
-    "Dynamic websites.md",
-    "HTTP.md",
-    "Kafka.md",
-    "MVC.md",
-    "Postback requests.md",
-    "Server sent events.md",
-    "Repository vs DAO DTO.md",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/README.md",
+    "File Graphic Components Palette.md",
+    "JPA & Co./JPA query types.md",
+    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
+    "JPA & Co./Hibernate isolation 714530e6fcfd4909b730831c2458d027.md",
+    "JPA & Co./README.md",
+    "Hibernate vs Spring Data JPA.md",
+    "JPA & Co./Hibernate entity Lifecycle f7f57282fa9547338fe18d74edf2e81d.md",
+    "JPA & Co./Hibernate Session methods e131cae2ecf34c5f83b9fb5da38ce855.md",
+    "JPA & Co./@Transactional 7aa52223a3794f50adb5f0a6d01e1fee.md",
+    "Topics to study/JMS.md",
+    "IPAE - The four fundamental principles of OOP%2FAccess modifiers.md",
+    "JVM/README.md",
+    "JVM/JAVA/README.md",
+    "JVM/JAVA/Reflection dc404060fc34477ab289e63b11f8751e.md",
+    "JVM/JAVA/IPAE - The four fundamental principles of OOP/Access modifiers.md",
+    "JVM/JAVA/IPAE - The four fundamental principles of OOP/README.md",
+    "JVM/JAVA/Interface vs Abstract-class 378b17c7f24c4d83a81fc76999a31ee9.md",
+    "JVM/JAVA/IPAE - The four fundamental principles of OOP%2FAccess modifiers.md",
+    "JVM/JAVA/Synchronization 0e9f086edd1549d9a699be70c4bd81f0/README.md",
+    "2FIPAE - The four fundamental principles of OOP%2FAccess modifiers.md",
+    "[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c/Access modifiers.md",
+    "[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c/Access modifiers 49cc1ce9915145de9e7c2a3afea6db11.md",
+    "[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c",
+    "Template engines/Introduction.md",
+    "JPA & Co./Overview.md",
+    "JPA & Co./Hibernate FetchMode f1037fe3d70c432a94320b510a00d97a.md",
+    "JPA & Co./JPA optimistic locking 44c4303cde734c338c40f2a001070233.md",
     "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/Untitled.png",
     "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/Untitled.png",
     "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/2.Coll_Inter.png",
     "Relational/Consistency a53755ad08664f14b87cdb8b798877eb/Untitled.png",
-    "JVM/JAVA/[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c",
+    "JVM/JAVA/IPAE - The four fundamental principles of OOP",
     "JVM/JAVA/Synchronization 0e9f086edd1549d9a699be70c4bd81f0",
     "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f",
     "JVM/JAVA/Beans 830371ad0b014a26a682ebdbfcb6b5ee",
-    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
     "Relational/Consistency a53755ad08664f14b87cdb8b798877eb",
     "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef",
     "JVM/KOTLIN",
     "JVM/JAVA",
-    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43",
-    "Google Interview/Google_Interview_Prep_Guide_SWE.pdf"
+    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43"
   ]
 }

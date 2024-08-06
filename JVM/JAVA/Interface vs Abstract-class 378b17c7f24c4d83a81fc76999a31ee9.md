@@ -2,7 +2,7 @@
 
 In Java, interfaces and abstract classes are two concepts used to support ***abstraction*** and ***inheritance***.
 
-[[IPAE] The four fundamental principles of OOP](%5BIPAE%5D%20The%20four%20fundamental%20principles%20of%20OOP%2049483a4cdf234d8ca907817aefd99b6c.md)
+[[IPAE] The four fundamental principles of OOP](JVM/JAVA/IPAE%20-%20The%20four%20fundamental%20principles%20of%20OOP/README.md)
 
 ---
 

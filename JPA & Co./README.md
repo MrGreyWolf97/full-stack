@@ -7,7 +7,7 @@
 ### Core concepts
 
 ***JPA***
-[JPA query types](JPA%20query%20types.md)
+- [JPA query types](JPA%20query%20types.md)
 [JPA optimistic locking](JPA%20optimistic%20locking%2044c4303cde734c338c40f2a001070233.md)
 [JPA pessimistic locking](JPA%20pessimistic%20locking%205b536daad69a4834b2836095b313135f.md)
 

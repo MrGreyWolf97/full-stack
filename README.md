@@ -44,6 +44,8 @@ Repository containing documentation relatively the mostly asked questions and to
 > ***Related topics:*** 
 > [Server sent events](Server%20sent%20events.md)
 
+---
+> [File Graphic Components Palette](File%20Graphic%20Components%20Palette.md)
 
 
 

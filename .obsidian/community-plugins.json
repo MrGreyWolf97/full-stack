@@ -2,5 +2,7 @@
   "omnisearch",
   "obsidian-git",
   "automatic-table-of-contents",
-  "obsidian-show-file-path"
+  "obsidian-show-file-path",
+  "quick-explorer",
+  "obsidian-reveal-active-file"
 ]
