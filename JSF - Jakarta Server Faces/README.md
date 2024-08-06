@@ -8,7 +8,7 @@
 
 ---
 
-[Hello World](Fullstack/JSF%20-%20Jakarta%20Server%20Faces/Hello%20World%20bf6b264457e241d39244b6c2cc27ac43/README.md)
+[Hello World](JSF%20-%20Jakarta%20Server%20Faces/Hello%20World%20bf6b264457e241d39244b6c2cc27ac43/README.md)
 
 [Components](Components%204dcc1285439d44d481cd6b9eb7680724.md)
 

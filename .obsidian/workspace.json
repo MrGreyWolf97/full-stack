@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fullstack/Server sent events.md",
+                "file": "Server sent events.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack/Server sent events.md",
+                "file": "Server sent events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack/Server sent events.md",
+                "file": "Server sent events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullstack/Server sent events.md"
+                "file": "Server sent events.md"
               }
             }
           }
@@ -148,46 +148,46 @@
   },
   "active": "3d01fc62097e77ef",
   "lastOpenFiles": [
-    "Fullstack/Repository vs DAO DTO.md",
-    "Fullstack/RabbitMQ.md",
-    "Fullstack/Postback requests.md",
-    "Fullstack/MVC.md",
-    "Fullstack/Kafka.md",
-    "Fullstack/HTTP.md",
-    "Fullstack/Dynamic websites.md",
-    "Fullstack/Design Patterns.md",
-    "Fullstack/Declarative programming.md",
-    "Fullstack/Data structures.md",
-    "Fullstack/APIs and RESTfulness.md",
-    "Fullstack/Algorithm.md",
-    "Fullstack/[HTTP] Idempotent actions.md",
-    "Fullstack/JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/README.md",
-    "Fullstack/Relational/Consistency a53755ad08664f14b87cdb8b798877eb/README.md",
-    "Fullstack/Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/README.md",
-    "Fullstack/Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/Untitled.png",
-    "Fullstack/Spring/README.md",
-    "Fullstack/JVM/JAVA/README.md",
-    "Fullstack/JVM/README.md",
-    "Fullstack/JVM/KOTLIN/README.md",
-    "Fullstack/README.md",
-    "Fullstack/Google Interview/README.md",
-    "Fullstack/JPA + Hibernate/README.md",
-    "Fullstack/JavaScript - Typescript/README.md",
-    "Fullstack/Bash/Linux file-system 9200295218804e73a40da9ada44bed07/README.md",
-    "Fullstack/Bash/Commands d02b37d7104248dd8821eb53e17f46a3/README.md",
-    "Fullstack/JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/Untitled.png",
-    "Fullstack/JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/2.Coll_Inter.png",
-    "Fullstack/Relational/Consistency a53755ad08664f14b87cdb8b798877eb/Untitled.png",
-    "Fullstack/JVM/JAVA/[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c",
-    "Fullstack/JVM/JAVA/Synchronization 0e9f086edd1549d9a699be70c4bd81f0",
-    "Fullstack/JVM/JAVA/Collections 905153217a0846ff802826f81374f75f",
-    "Fullstack/JVM/JAVA/Beans 830371ad0b014a26a682ebdbfcb6b5ee",
-    "Fullstack/JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
-    "Fullstack/Relational/Consistency a53755ad08664f14b87cdb8b798877eb",
-    "Fullstack/Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef",
-    "Fullstack/JVM/KOTLIN",
-    "Fullstack/JVM/JAVA",
-    "Fullstack/JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43",
-    "Fullstack/Google Interview/Google_Interview_Prep_Guide_SWE.pdf"
+    "Repository vs DAO DTO.md",
+    "RabbitMQ.md",
+    "Postback requests.md",
+    "MVC.md",
+    "Kafka.md",
+    "HTTP.md",
+    "Dynamic websites.md",
+    "Design Patterns.md",
+    "Declarative programming.md",
+    "Data structures.md",
+    "APIs and RESTfulness.md",
+    "Algorithm.md",
+    "[HTTP] Idempotent actions.md",
+    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/README.md",
+    "Relational/Consistency a53755ad08664f14b87cdb8b798877eb/README.md",
+    "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/README.md",
+    "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/Untitled.png",
+    "Spring/README.md",
+    "JVM/JAVA/README.md",
+    "JVM/README.md",
+    "JVM/KOTLIN/README.md",
+    "README.md",
+    "Google Interview/README.md",
+    "JPA + Hibernate/README.md",
+    "JavaScript - Typescript/README.md",
+    "Bash/Linux file-system 9200295218804e73a40da9ada44bed07/README.md",
+    "Bash/Commands d02b37d7104248dd8821eb53e17f46a3/README.md",
+    "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/Untitled.png",
+    "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/2.Coll_Inter.png",
+    "Relational/Consistency a53755ad08664f14b87cdb8b798877eb/Untitled.png",
+    "JVM/JAVA/[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c",
+    "JVM/JAVA/Synchronization 0e9f086edd1549d9a699be70c4bd81f0",
+    "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f",
+    "JVM/JAVA/Beans 830371ad0b014a26a682ebdbfcb6b5ee",
+    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
+    "Relational/Consistency a53755ad08664f14b87cdb8b798877eb",
+    "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef",
+    "JVM/KOTLIN",
+    "JVM/JAVA",
+    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43",
+    "Google Interview/Google_Interview_Prep_Guide_SWE.pdf"
   ]
 }

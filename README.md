@@ -4,12 +4,12 @@ Repository containing documentation relatively the mostly asked questions and to
 
 ---
 
-- [Topics to study](Fullstack/Topics%20to%20study/README.md)
-- [Google Interview](Fullstack/Google%20Interview/README.md)
+- [Topics to study](Topics%20to%20study/README.md)
+- [Google Interview](Google%20Interview/README.md)
 
 ---
 ### Back-End
-- [JVM](Fullstack/JVM/README.md)
+- [JVM](JVM/README.md)
 - [Design Patterns](Design%20Patterns.md)
 - [Data structures](Data%20structures.md)
 - [Algorithm](Algorithm.md)
@@ -17,18 +17,18 @@ Repository containing documentation relatively the mostly asked questions and to
 ### Front-end
 - [Dynamic websites](Dynamic%20websites.md)
 - [CMS - Content Management System](CMS%20-%20Content%20Management%20System.md)
-- [JavaScript - Typescript](Fullstack/JavaScript%20-%20Typescript/README.md)
-- [Template engines](Fullstack/Template%20engines/README.md)
-- [Bash](Fullstack/Bash/README.md)
+- [JavaScript - Typescript](JavaScript%20-%20Typescript/README.md)
+- [Template engines](Template%20engines/README.md)
+- [Bash](Bash/README.md)
 ---
 ### Database
-- [Relational](Fullstack/Relational/README.md)
+- [Relational](Relational/README.md)
 ---
 ### Frameworks
 - [Declarative programming](Declarative%20programming.md)
-- [JPA + Hibernate](Fullstack/JPA%20+%20Hibernate/README.md)
-- [Spring](Fullstack/Spring/README.md)
-- [JSF - Jakarta Server Faces](Fullstack/JSF%20-%20Jakarta%20Server%20Faces/README.md)
+- [JPA + Hibernate](JPA%20+%20Hibernate/README.md)
+- [Spring](Spring/README.md)
+- [JSF - Jakarta Server Faces](JSF%20-%20Jakarta%20Server%20Faces/README.md)
 ---
 ### Message broakers
 - [RabbitMQ](RabbitMQ.md)

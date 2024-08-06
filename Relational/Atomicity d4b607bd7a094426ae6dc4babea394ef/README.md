@@ -9,7 +9,7 @@ This is important because it allows database transactions to be isolated from on
 
 </aside>
 
-![Untitled](Fullstack/Relational/Atomicity%20d4b607bd7a094426ae6dc4babea394ef/Untitled.png)
+![Untitled](Relational/Atomicity%20d4b607bd7a094426ae6dc4babea394ef/Untitled.png)
 
 There are several benefits to this type of database behaviour.
 

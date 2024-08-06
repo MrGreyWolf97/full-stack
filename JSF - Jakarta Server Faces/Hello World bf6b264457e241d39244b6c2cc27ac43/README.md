@@ -37,4 +37,4 @@ It’s basically just an XHTML file that is by Jakarta Faces interpreted as a *
 - **<f:ajax>: This generates the necessary JavaScript code to enable Ajax behavior of the tag it is being nested in, in this case, the <h:commandButton>. You can also do as good without it, but then the form submit won’t be performed asynchronously. The execute attribute of @form indicates that the entire <h:form> where it is sitting in must be processed on submit, and the render attribute of :output indicates that the tag identified by id="output" must be automatically updated on completion of the Ajax submit.**
 - **<h:outputText>: This generates the HTML <span> element. This is the one being updated on completion of the Ajax submit. It will merely print the bean property specified in the value attribute.**
 
-![Untitled](Fullstack/JSF%20-%20Jakarta%20Server%20Faces/Hello%20World%20bf6b264457e241d39244b6c2cc27ac43/Untitled.png)
+![Untitled](JSF%20-%20Jakarta%20Server%20Faces/Hello%20World%20bf6b264457e241d39244b6c2cc27ac43/Untitled.png)

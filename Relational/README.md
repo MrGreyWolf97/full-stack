@@ -4,9 +4,9 @@
 
 [ACID](ACID%20f7770645020b418589ef1a762de8cebd.md)
 
-[Atomicity](Fullstack/Relational/Atomicity%20d4b607bd7a094426ae6dc4babea394ef/README.md)
+[Atomicity](Relational/Atomicity%20d4b607bd7a094426ae6dc4babea394ef/README.md)
 
-[Consistency](Fullstack/Relational/Consistency%20a53755ad08664f14b87cdb8b798877eb/README.md)
+[Consistency](Relational/Consistency%20a53755ad08664f14b87cdb8b798877eb/README.md)
 
 [Isolation: Concurrent access issues](Isolation%20Concurrent%20access%20issues%201dc638b6fab84ed897372f1580c8bacb.md)
 
