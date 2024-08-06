@@ -1,28 +1,31 @@
-# JPA + Hibernate
+# JPA & Co.
 
-[Overview](Overview%208540c52d4f4e4473a82a85a626dc6851.md)
+[Overview](Overview.md)
 
 ---
 
 ### Core concepts
 
-JPA
-
-[JPA query types](JPA%20query%20types%20699d9a263eef4811bbcccb3540c26b37.md)
-
+***JPA***
+[JPA query types](JPA%20query%20types.md)
 [JPA optimistic locking](JPA%20optimistic%20locking%2044c4303cde734c338c40f2a001070233.md)
-
 [JPA pessimistic locking](JPA%20pessimistic%20locking%205b536daad69a4834b2836095b313135f.md)
 
-Hibernate
-
+***Hibernate***
 [Hibernate isolation](Hibernate%20isolation%20714530e6fcfd4909b730831c2458d027.md)
-
 [Hibernate entity Lifecycle](Hibernate%20entity%20Lifecycle%20f7f57282fa9547338fe18d74edf2e81d.md)
-
 [Hibernate FetchMode](Hibernate%20FetchMode%20f1037fe3d70c432a94320b510a00d97a.md)
-
 [Hibernate Session methods](Hibernate%20Session%20methods%20e131cae2ecf34c5f83b9fb5da38ce855.md)
+
+
+***JOOQ***
+
+
+***Spring Data JPA***
+
+
+*Related*:
+> [Hibernate vs Spring Data JPA](Hibernate%20vs%20Spring%20Data%20JPA.md)
 
 ---
 

@@ -1,22 +1,4 @@
 {
-  "editor:table-row-down": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:table-row-up": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
   "omnisearch:show-modal": [
     {
       "modifiers": [
@@ -33,6 +15,24 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }

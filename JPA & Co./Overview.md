@@ -1,0 +1,15 @@
+# Overview
+
+Object-Relational Mapping (ORM) is the process of converting Java objects to database tables. In other words, this allows us to interact with a relational database without any SQL. 
+
+- **Java Persistence API (JPA)** => is a specification that defines how to persist data in Java applications.
+  The primary focus of JPA is the ORM layer.
+- **Hibernate** =>  one of the most popular Java ORM frameworks in use today.
+  Its first release was almost twenty years ago, and still has excellent community support and regular releases.
+  Additionally, **Hibernate is a standard implementation of the JPA specification**, with a few additional features that are specific to Hibernate.
+
+---
+
+***References***
+
+- [https://wUntitledww.baeldung.com/learn-jpa-hibernate](https://www.baeldung.com/learn-jpa-hibernate)
