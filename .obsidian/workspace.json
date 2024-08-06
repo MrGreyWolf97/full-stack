@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "8548338108e98cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2bde119478f8fa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56d7b6905298568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fullstack/Server sent events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3aaea99d49c4529",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a89c8c9ba8e2d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d01fc62097e77ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "371aa5e48401fe58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "557d3f2231c244b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f4b357665513b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "b84173e7344464ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf3e459f43379df8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fullstack/Server sent events.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f912c1fae73b0d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fullstack/Server sent events.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56b878cac6e86a5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff545d1beb81cb95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fullstack/Server sent events.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "3d01fc62097e77ef",
+  "lastOpenFiles": [
+    "Fullstack/Repository vs DAO DTO.md",
+    "Fullstack/RabbitMQ.md",
+    "Fullstack/Postback requests.md",
+    "Fullstack/MVC.md",
+    "Fullstack/Kafka.md",
+    "Fullstack/HTTP.md",
+    "Fullstack/Dynamic websites.md",
+    "Fullstack/Design Patterns.md",
+    "Fullstack/Declarative programming.md",
+    "Fullstack/Data structures.md",
+    "Fullstack/APIs and RESTfulness.md",
+    "Fullstack/Algorithm.md",
+    "Fullstack/[HTTP] Idempotent actions.md",
+    "Fullstack/JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/README.md",
+    "Fullstack/Relational/Consistency a53755ad08664f14b87cdb8b798877eb/README.md",
+    "Fullstack/Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/README.md",
+    "Fullstack/Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/Untitled.png",
+    "Fullstack/Spring/README.md",
+    "Fullstack/JVM/JAVA/README.md",
+    "Fullstack/JVM/README.md",
+    "Fullstack/JVM/KOTLIN/README.md",
+    "Fullstack/README.md",
+    "Fullstack/Google Interview/README.md",
+    "Fullstack/JPA + Hibernate/README.md",
+    "Fullstack/JavaScript - Typescript/README.md",
+    "Fullstack/Bash/Linux file-system 9200295218804e73a40da9ada44bed07/README.md",
+    "Fullstack/Bash/Commands d02b37d7104248dd8821eb53e17f46a3/README.md",
+    "Fullstack/JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/Untitled.png",
+    "Fullstack/JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/2.Coll_Inter.png",
+    "Fullstack/Relational/Consistency a53755ad08664f14b87cdb8b798877eb/Untitled.png",
+    "Fullstack/JVM/JAVA/[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c",
+    "Fullstack/JVM/JAVA/Synchronization 0e9f086edd1549d9a699be70c4bd81f0",
+    "Fullstack/JVM/JAVA/Collections 905153217a0846ff802826f81374f75f",
+    "Fullstack/JVM/JAVA/Beans 830371ad0b014a26a682ebdbfcb6b5ee",
+    "Fullstack/JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
+    "Fullstack/Relational/Consistency a53755ad08664f14b87cdb8b798877eb",
+    "Fullstack/Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef",
+    "Fullstack/JVM/KOTLIN",
+    "Fullstack/JVM/JAVA",
+    "Fullstack/JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43",
+    "Fullstack/Google Interview/Google_Interview_Prep_Guide_SWE.pdf"
+  ]
+}

@@ -1,0 +1,1 @@
+# Session storage - Local storage - Cookies
