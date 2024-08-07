@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational/README.md",
+                "file": "Spring/Injection -> Multiple Classes, Same Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5110321044922
+    "width": 349.5110321044922
   },
   "right": {
     "id": "5f4b357665513b14",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational/README.md",
+                "file": "Spring/Injection -> Multiple Classes, Same Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational/README.md",
+                "file": "Spring/Injection -> Multiple Classes, Same Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational/README.md"
+                "file": "Spring/Injection -> Multiple Classes, Same Interface.md"
               }
             }
           }
@@ -148,13 +148,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d01fc62097e77ef",
+  "active": "4c59597a4a0ef80a",
   "lastOpenFiles": [
-    "Relational/Atomicity/README.md",
+    "Spring/Spring Boot.md",
+    "Spring/Injection -> Multiple Classes, Same Interface.md",
     "Relational/README.md",
     "Relational/DBMS/README.md",
+    "Relational/Sharding.md",
+    "Relational/Consistency/README.md",
+    "Relational/DBMS/Comparison/Schema vs Database.md",
+    "Relational/DBMS/Comparison/PostgreSQL vs Oracle.md",
     "Relational/DBMS/Postgres/README.md",
     "[.md",
+    "Relational/Atomicity/README.md",
     "PostgreSQL isolation level.md",
     "Relational/ANSI SQL.md",
     "Relational/DBMS/Postgres/Overview.md",
@@ -171,8 +177,6 @@
     "Relational/databases/README.md",
     "Relational/DBMS/Postgres/Functionalities/03. Create Schema.md",
     "Relational/DBMS/Postgres/Functionalities",
-    "Relational/DBMS/Comparison/Schema vs Database.md",
-    "Relational/DBMS/Comparison/PostgreSQL vs Oracle.md",
     "Relational/DBMS/Postgres",
     "Relational/DBMS/Comparison",
     "Relational/databases/Non Relational/Untitled.md",
@@ -181,10 +185,6 @@
     "Relational/databases/FAQ",
     "Relational/databases",
     "Relational/PostgreSQL isolation level.md",
-    "Relational/Isolation Transactional isolation levels.md",
-    "README.md",
-    "MVC.md",
-    "JPA & ORMs/README.md",
     "Google Interview/Google_Interview_Prep_Guide_SWE.pdf",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
     "Relational/Atomicity/Untitled.png",
