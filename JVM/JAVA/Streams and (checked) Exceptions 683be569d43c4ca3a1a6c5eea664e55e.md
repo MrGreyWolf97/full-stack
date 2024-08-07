@@ -13,14 +13,14 @@ Here's an example:
 
 try {
     List<Integer> numbers = strings.stream()
-                                   .map(s -> {
-                                       try {
-                                           return Integer.parseInt(s);
-                                       } catch (NumberFormatException e) {
-                                           throw new RuntimeException(e);
-                                       }
-                                   })
-                                   .collect(Collectors.toList());
+	   .map(s -> {
+		   try {
+			   return Integer.parseInt(s);
+		   } catch (NumberFormatException e) {
+			   throw new RuntimeException(e);
+		   }
+	   })
+	   .collect(Collectors.toList());
 } catch (RuntimeException e) {
     if (e.getCause() instanceof NumberFormatException) {
         // Handle NumberFormatException

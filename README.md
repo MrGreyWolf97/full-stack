@@ -23,12 +23,14 @@ Repository containing documentation relatively the mostly asked questions and to
 ---
 ### Database
 - [Relational](Relational/README.md)
+- [In-memory DB](In-memory%20DB.md) => H2
 ---
 ### Frameworks
-- [Declarative programming](Declarative%20programming.md)
-- [JPA + Hibernate](JPA%20&%20Co./README.md)
 - [Spring](Spring/README.md)
+- [JPA + Hibernate](JPA%20&%20ORMs/README.md)
+
 - [JSF - Jakarta Server Faces](JSF%20-%20Jakarta%20Server%20Faces/README.md)
+- [Declarative programming](Declarative%20programming.md)
 ---
 ### Message broakers
 - [RabbitMQ](RabbitMQ.md)
