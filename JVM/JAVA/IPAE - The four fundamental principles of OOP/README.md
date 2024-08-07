@@ -29,7 +29,8 @@
 ---
 
 
-> [!warning] <aside><img src="https://www.notion.so/icons/info-alternate_yellow.svg" alt="https://www.notion.so/icons/info-alternate_yellow.svg" width="40px" /></aside> There isn't a universally accepted acronym for inheritance, polymorphism, abstraction, and encapsulation.
+> [!warning] <aside><img src="https://www.notion.so/icons/info-alternate_yellow.svg" alt="https://www.notion.so/icons/info-alternate_yellow.svg" width="40px" /></aside>
+> > There isn't a universally accepted acronym for inheritance, polymorphism, abstraction, and encapsulation.
 > ---
 > However, some people use the acronym "IPAE" or "PAEI" to represent these four fundamental principles of object-oriented programming.
-Keep in mind that this acronym is informal and not widely used in official documentation or textbooks.
+> Keep in mind that this acronym is informal and not widely used in official documentation or textbooks.
