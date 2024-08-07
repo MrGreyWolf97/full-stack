@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Injection -> Multiple Classes, Same Interface.md",
+                "file": "JVM/JAVA/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Injection -> Multiple Classes, Same Interface.md",
+                "file": "JVM/JAVA/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Injection -> Multiple Classes, Same Interface.md",
+                "file": "JVM/JAVA/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Injection -> Multiple Classes, Same Interface.md"
+                "file": "JVM/JAVA/README.md"
               }
             }
           }
@@ -150,8 +150,13 @@
   },
   "active": "4c59597a4a0ef80a",
   "lastOpenFiles": [
-    "Spring/Spring Boot.md",
+    "JVM/JAVA/IPAE - The four fundamental principles of OOP/README.md",
+    "JVM/JAVA/README.md",
+    "JVM/JAVA/Differences Java - Other languages 1c05734c82234f2b9576d741a42c7bc0.md",
+    "JVM/README.md",
+    "In-memory DB.md",
     "Spring/Injection -> Multiple Classes, Same Interface.md",
+    "Spring/Spring Boot.md",
     "Relational/README.md",
     "Relational/DBMS/README.md",
     "Relational/Sharding.md",
@@ -173,18 +178,13 @@
     "Functionalities",
     "Relational/DBMS/Postgres/Functionalities/01. Navigating.md",
     "Relational/DBMS/Postgres/Functionalities/00. Install Postgres.md",
-    "Commands%2F00. Install Postgres.md",
-    "Relational/databases/README.md",
-    "Relational/DBMS/Postgres/Functionalities/03. Create Schema.md",
     "Relational/DBMS/Postgres/Functionalities",
     "Relational/DBMS/Postgres",
     "Relational/DBMS/Comparison",
-    "Relational/databases/Non Relational/Untitled.md",
     "Relational/DBMS",
     "Relational/databases/Non Relational",
     "Relational/databases/FAQ",
     "Relational/databases",
-    "Relational/PostgreSQL isolation level.md",
     "Google Interview/Google_Interview_Prep_Guide_SWE.pdf",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
     "Relational/Atomicity/Untitled.png",
