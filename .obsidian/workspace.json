@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA & ORMs/README.md",
+                "file": "Relational/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5110321044922
+    "width": 387.5110321044922
   },
   "right": {
     "id": "5f4b357665513b14",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA & ORMs/README.md",
+                "file": "Relational/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA & ORMs/README.md",
+                "file": "Relational/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA & ORMs/README.md"
+                "file": "Relational/README.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,46 +149,46 @@
   },
   "active": "4c59597a4a0ef80a",
   "lastOpenFiles": [
-    "JPA & ORMs/Required knowledge/ORM.md",
+    "Relational/databases/Relational/Postgres/Commands/Commands palette.md",
+    "Relational/databases/Relational/Postgres/Commands/02. Group & Roles.md",
+    "Relational/databases/Relational/Postgres/Commands/02. Create Schema.md",
+    "Relational/databases/Relational/Postgres/Commands/01. Navigating.md",
+    "Relational/databases/Relational/Postgres/Commands/00. Install Postgres.md",
+    "Relational/databases/Relational/Postgres/Overview.md",
+    "Relational/databases/Relational/Postgres/Commands",
+    "Relational/databases/Relational/Postgres/00 - postgresql-16-A4.pdf",
+    "Relational/databases/Relational/Comparison/Schema vs Database.md",
+    "Relational/databases/Relational/Comparison/PostgreSQL vs Oracle.md",
+    "Relational/databases/Relational/Postgres",
+    "Relational/databases/Relational/Comparison",
+    "Relational/databases/Relational/ANSI SQL.md",
+    "Relational/databases/Non Relational/Untitled.md",
+    "Relational/databases/Relational",
+    "Relational/databases/README.md",
+    "Relational/databases/Non Relational",
+    "Relational/databases/FAQ",
+    "Relational/databases",
+    "Relational/PostgreSQL isolation level.md",
+    "Relational/README.md",
+    "Relational/Isolation Transactional isolation levels.md",
+    "README.md",
+    "MVC.md",
     "JPA & ORMs/README.md",
+    "Relational/Table, View, Materialized views.md",
+    "JVM/KOTLIN/Kotlin vs Java.md",
+    "JVM/KOTLIN/Comparison.md",
+    "JVM/KOTLIN/Collections.md",
+    "Google Interview/Google_Interview_Prep_Guide_SWE.pdf",
+    "Google Interview/Data structures.md",
+    "JPA & ORMs/Lombock + Hibernate.md",
+    "JPA & ORMs/Required knowledge/ORM.md",
     "JPA & ORMs/Required knowledge/JDBC.md",
     "JPA & ORMs/Required knowledge/DBMS.md",
-    "JPA & ORMs/Overview.md",
-    "JPA & ORMs/JPA vs Hibernate-ORM.md",
-    "JPA & ORMs/orm_doc/README.md",
-    "JPA & ORMs/Hibernate vs Spring Data JPA.md",
-    "In-memory DB.md",
-    "JavaScript - Typescript/Uknown - Undefined - Null.md",
     "JPA & ORMs/orm_doc/FAQ",
-    "JPA & ORMs/Required knowledge",
-    "JPA & ORMs/orm_doc",
-    "JVM/JAVA/Collections/README.md",
-    "JVM/JAVA/Beans/README.md",
-    "JPA & ORMs/JPA pessimistic locking.md",
-    "JPA & ORMs/JPA optimistic locking.md",
-    "JPA & ORMs/@Transactional Propagation.md",
-    "JPA & ORMs/@Transactional Isolation.md",
-    "JPA & ORMs/JPA query types.md",
-    "JPA & ORMs/Detached entity.md",
-    "JPA & ORMs/@Transactional.md",
-    "File Graphic Components Palette.md",
-    "JVM/JAVA/Streams and (checked) Exceptions 683be569d43c4ca3a1a6c5eea664e55e.md",
-    "Topics to study/README.md",
-    "JVM/JAVA/Synchronization/README.md",
-    "JVM/JAVA/Beans/Event handling (JavaBeans).md",
-    "JPA & ORMs/Spring + JPA.md",
-    "README.md",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
-    "[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c",
-    "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/Untitled.png",
+    "Relational/Atomicity/Untitled.png",
     "JVM/JAVA/Collections/Untitled.png",
     "JVM/JAVA/Collections/2.Coll_Inter.png",
-    "Relational/Consistency a53755ad08664f14b87cdb8b798877eb/Untitled.png",
-    "JVM/JAVA/IPAE - The four fundamental principles of OOP",
-    "JVM/JAVA/Synchronization",
-    "JVM/JAVA/Collections",
-    "JVM/JAVA/Beans",
-    "Relational/Consistency a53755ad08664f14b87cdb8b798877eb",
-    "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef"
+    "Relational/Consistency/Untitled.png"
   ]
 }

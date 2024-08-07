@@ -35,15 +35,11 @@
 > [Hibernate vs Spring Data JPA](Hibernate%20vs%20Spring%20Data%20JPA.md)
 > [JPA vs Hibernate-ORM](JPA%20vs%20Hibernate-ORM.md)
 
----
-
 
 [Detached entity](Detached%20entity.md)
-
 [FetchTypes (EAGER vs LAZY)](FetchTypes%20(EAGER%20vs%20LAZY).md)
 
 ---
 
 ### Extra
-
-[Lombock + Hibernate](Lombock%20+%20Hibernate.md)
+- [Lombock + Hibernate](Lombock%20+%20Hibernate.md)

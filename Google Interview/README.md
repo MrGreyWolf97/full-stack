@@ -2,17 +2,17 @@
 
 [[Google Interview Prep Guide] SWE.pdf](Google_Interview_Prep_Guide_SWE.pdf)
 
-[Algorithms](Algorithms%208fd19b00f196486799865b732eecdbf6.md)
+[Algorithms](Google%20Interview/Algorithms.md)
 
-[Sorting](Sorting%2010e2b09fe8df4fb69cc552b7c5fa0995.md)
+[Sorting](Sorting.md)
 
-[Data structures](Data%20structures%202b8295afa0af4086b9e48ba2b2315be6.md)
+[Data structures](Google%20Interview/Data%20structures.md)
 
-[Graphs](Graphs%20340f45e68938435c8af0c932e73ef795.md)
+[Graphs](Graphs.md)
 
-[Mathematics](Mathematics%20a114cd600b374b84be2ed34a8a58f6f2.md)
+[Mathematics](Mathematics.md)
 
-[Recursion](Recursion%2043e7649ecb774723a5bd33ff682549e0.md)
+[Recursion](Recursion.md)
 
 ### Topics to locate
 

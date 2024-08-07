@@ -86,16 +86,16 @@ To be used for communication between different services, not inside the same app
     - Java EE
         - [ ]  Java EE specification
         
-        [EJB (Enterprise Java Beans)](EJB%20(Enterprise%20Java%20Beans)%20772657b460d94cfbaf4112beb2a3c933.md)
+        [EJB (Enterprise Java Beans)](EJB%20(Enterprise%20Java%20Beans).md)
         
-        [JSP (Java Server Page)](JSP%20(Java%20Server%20Page)%20819fc6e6a98a4e649f60069a9b90137f.md)
+        [JSP (Java Server Page)](JSP%20(Java%20Server%20Page).md)
         
         [JMS](JMS.md)
         
         [Servlets](Servlets.md)
         
     
-    [Java Project (my experience)](Java%20Project%20(my%20experience)%208a50617e506945d7a795fa01de6fdb24.md)
+    [Java Project (my experience)](Java%20Project%20(my%20experience).md)
     
 - Web applications / Servlets
     - [ ]  Difference between Servlets and Applets

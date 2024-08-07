@@ -1,0 +1,1 @@
+This Chapter has the final purpose to explain core topics of Databases, from Relational to Non Relational ones.
