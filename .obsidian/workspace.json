@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational/DBMS/README.md",
+                "file": "Relational/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational/DBMS/README.md",
+                "file": "Relational/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational/DBMS/README.md",
+                "file": "Relational/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational/DBMS/README.md"
+                "file": "Relational/README.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "3d01fc62097e77ef",
   "lastOpenFiles": [
-    "Relational/DBMS/Postgres/README.md",
-    "Relational/DBMS/README.md",
-    "[.md",
+    "Relational/Atomicity/README.md",
     "Relational/README.md",
+    "Relational/DBMS/README.md",
+    "Relational/DBMS/Postgres/README.md",
+    "[.md",
     "PostgreSQL isolation level.md",
     "Relational/ANSI SQL.md",
     "Relational/DBMS/Postgres/Overview.md",
@@ -183,7 +184,6 @@
     "README.md",
     "MVC.md",
     "JPA & ORMs/README.md",
-    "Relational/Table, View, Materialized views.md",
     "Google Interview/Google_Interview_Prep_Guide_SWE.pdf",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
     "Relational/Atomicity/Untitled.png",

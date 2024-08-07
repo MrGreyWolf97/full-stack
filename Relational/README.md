@@ -3,7 +3,7 @@
 ---
 
 [ACID - Overview](ACID.md)
-1. [Atomicity](Relational/Atomicity/README.md)
+1. [Atomicity](Relational/Atomicity/README)
 2. [Consistency](Relational/Consistency/README.md)
 3. Isolation
 > a. [Concurrent access issues](Isolation%20Concurrent%20access%20issues.md)
