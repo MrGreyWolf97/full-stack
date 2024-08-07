@@ -95,4 +95,4 @@ public class Employee implements Serializable {
 
 JavaBeans can provide support for event handling through event listener interfaces and methods to add and remove listeners.
 
-[Event handling (JavaBeans)](Event%20handling%20(JavaBeans)%2023221699f892468892bbc63369626f82.md)
+[Event handling (JavaBeans)](Event%20handling%20(JavaBeans).md)

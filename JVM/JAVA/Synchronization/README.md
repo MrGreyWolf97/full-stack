@@ -124,7 +124,7 @@ public class MyClass {
 }
 ```
 
-[Fair Semaphores](Fair%20Semaphores%2087be937fea6c46dc891070e362934b89.md)
+[Fair Semaphores](Fair%20Semaphores.md)
 
 <aside>
 <img src="https://www.notion.so/icons/skull_purple.svg" alt="https://www.notion.so/icons/skull_purple.svg" width="40px" /> Best practices

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA & ORMs/@Transactional.md",
+                "file": "JPA & ORMs/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5110321044922
+    "width": 330.5110321044922
   },
   "right": {
     "id": "5f4b357665513b14",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA & ORMs/@Transactional.md",
+                "file": "JPA & ORMs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA & ORMs/@Transactional.md",
+                "file": "JPA & ORMs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA & ORMs/@Transactional.md"
+                "file": "JPA & ORMs/README.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,46 +148,46 @@
   },
   "active": "4c59597a4a0ef80a",
   "lastOpenFiles": [
-    "File Graphic Components Palette.md",
-    "JPA & ORMs/@Transactional.md",
-    "JVM/JAVA/Streams and (checked) Exceptions 683be569d43c4ca3a1a6c5eea664e55e.md",
+    "JPA & ORMs/Required knowledge/ORM.md",
     "JPA & ORMs/README.md",
-    "Hibernate vs Spring Data JPA.md",
+    "JPA & ORMs/Required knowledge/JDBC.md",
+    "JPA & ORMs/Required knowledge/DBMS.md",
+    "JPA & ORMs/Overview.md",
+    "JPA & ORMs/JPA vs Hibernate-ORM.md",
+    "JPA & ORMs/orm_doc/README.md",
+    "JPA & ORMs/Hibernate vs Spring Data JPA.md",
+    "In-memory DB.md",
+    "JavaScript - Typescript/Uknown - Undefined - Null.md",
+    "JPA & ORMs/orm_doc/FAQ",
+    "JPA & ORMs/Required knowledge",
+    "JPA & ORMs/orm_doc",
+    "JVM/JAVA/Collections/README.md",
+    "JVM/JAVA/Beans/README.md",
+    "JPA & ORMs/JPA pessimistic locking.md",
+    "JPA & ORMs/JPA optimistic locking.md",
+    "JPA & ORMs/@Transactional Propagation.md",
+    "JPA & ORMs/@Transactional Isolation.md",
+    "JPA & ORMs/JPA query types.md",
+    "JPA & ORMs/Detached entity.md",
+    "JPA & ORMs/@Transactional.md",
+    "File Graphic Components Palette.md",
+    "JVM/JAVA/Streams and (checked) Exceptions 683be569d43c4ca3a1a6c5eea664e55e.md",
     "Topics to study/README.md",
-    "JVM/JAVA/Synchronization 0e9f086edd1549d9a699be70c4bd81f0/README.md",
-    "JVM/JAVA/Beans 830371ad0b014a26a682ebdbfcb6b5ee/Event handling (JavaBeans) 23221699f892468892bbc63369626f82.md",
+    "JVM/JAVA/Synchronization/README.md",
+    "JVM/JAVA/Beans/Event handling (JavaBeans).md",
     "JPA & ORMs/Spring + JPA.md",
     "README.md",
-    "In-memory DB.md",
-    "JPA & ORMs/JPA query types.md",
-    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/README.md",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
-    "JPA & ORMs/Hibernate isolation 714530e6fcfd4909b730831c2458d027.md",
-    "JPA & ORMs/Hibernate entity Lifecycle f7f57282fa9547338fe18d74edf2e81d.md",
-    "JPA & ORMs/Hibernate Session methods e131cae2ecf34c5f83b9fb5da38ce855.md",
-    "Topics to study/JMS.md",
-    "IPAE - The four fundamental principles of OOP%2FAccess modifiers.md",
-    "JVM/README.md",
-    "JVM/JAVA/README.md",
-    "JVM/JAVA/Reflection dc404060fc34477ab289e63b11f8751e.md",
-    "JVM/JAVA/IPAE - The four fundamental principles of OOP/Access modifiers.md",
-    "JVM/JAVA/IPAE - The four fundamental principles of OOP/README.md",
-    "JVM/JAVA/Interface vs Abstract-class 378b17c7f24c4d83a81fc76999a31ee9.md",
-    "JVM/JAVA/IPAE - The four fundamental principles of OOP%2FAccess modifiers.md",
-    "2FIPAE - The four fundamental principles of OOP%2FAccess modifiers.md",
     "[IPAE] The four fundamental principles of OOP 49483a4cdf234d8ca907817aefd99b6c",
     "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef/Untitled.png",
-    "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/Untitled.png",
-    "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f/2.Coll_Inter.png",
+    "JVM/JAVA/Collections/Untitled.png",
+    "JVM/JAVA/Collections/2.Coll_Inter.png",
     "Relational/Consistency a53755ad08664f14b87cdb8b798877eb/Untitled.png",
     "JVM/JAVA/IPAE - The four fundamental principles of OOP",
-    "JVM/JAVA/Synchronization 0e9f086edd1549d9a699be70c4bd81f0",
-    "JVM/JAVA/Collections 905153217a0846ff802826f81374f75f",
-    "JVM/JAVA/Beans 830371ad0b014a26a682ebdbfcb6b5ee",
+    "JVM/JAVA/Synchronization",
+    "JVM/JAVA/Collections",
+    "JVM/JAVA/Beans",
     "Relational/Consistency a53755ad08664f14b87cdb8b798877eb",
-    "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef",
-    "JVM/KOTLIN",
-    "JVM/JAVA",
-    "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43"
+    "Relational/Atomicity d4b607bd7a094426ae6dc4babea394ef"
   ]
 }

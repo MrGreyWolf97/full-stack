@@ -58,7 +58,7 @@
 
 [True Immutability](True%20Immutability%20b31cce3156434710a86e15dc25bb41d6.md)
 
-[Beans](Beans%20830371ad0b014a26a682ebdbfcb6b5ee.md)
+[README](JVM/JAVA/Beans/README.md)
 
 [Transient](Transient%20bf59d6d99f3a46a6a43702a1d1ee01d4.md)
 
@@ -104,7 +104,7 @@
 
 [ThreadLocal](ThreadLocal%20cc31bd8714c34938a1cd9fe2409c3c81.md)
 
-[README](JVM/JAVA/Synchronization%200e9f086edd1549d9a699be70c4bd81f0/README.md)
+[README](JVM/JAVA/Synchronization/README.md)
 
 [Deadlock](Deadlock%20555ab4253c354bdb9316cd46250e282f.md)
 
@@ -116,7 +116,7 @@
 
 ### Data-structures (Collections)
 
-[Collections](Collections%20905153217a0846ff802826f81374f75f.md)
+[Collections](JVM/JAVA/Collections/README.md)
 
 [Collections’ advantages](Collections’%20advantages%20623fd9898b554f29af16e9afdae1e944.md)
 

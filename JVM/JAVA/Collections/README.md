@@ -4,7 +4,7 @@
 
 The framework simplifies the development process by offering *ready-to-use data structures* and algorithms for common programming tasks.
 
-![Untitled](JVM/JAVA/Collections%20905153217a0846ff802826f81374f75f/Untitled.png)
+![Untitled](JVM/JAVA/Collections/Untitled.png)
 
 ---
 

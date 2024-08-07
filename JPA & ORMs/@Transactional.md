@@ -64,13 +64,70 @@ The annotation supports **further configuration** as well:
 - a _readOnly flag_ – a hint for the persistence provider that the transaction should be read only
 - the _Rollback_ rules for the transaction
 
-> [!example] <aside><img src="https://www.notion.so/icons/skull_purple.svg" alt="https://www.notion.so/icons/skull_purple.svg" width="40px" /> </aside> @Transaction + CheckedException
-> ---
-> Note that by default, rollback happens for runtime, unchecked exceptions only.
-> 
-> **The checked exception does not trigger a rollback** of the transaction.
-> 
-> We can, of course, configure this behavior with the _rollbackFor_ and _noRollbackFor_ annotation parameters.
+
+### [What Is _@Transactional?_](https://www.baeldung.com/spring-transactional-propagation-isolation#transactional-annotation)
+
+We can use _[@Transactional](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)_ to wrap a method in a database transaction.
+
+It allows us to set propagation, isolation, timeout, read-only, and rollback conditions for our transaction. We can also specify the transaction manager.
+
+#### [1. _@Transactional_ Implementation Details](https://www.baeldung.com/spring-transactional-propagation-isolation#1-transactional-implementation-details)
+
+Spring creates a proxy, or manipulates the class byte-code, to manage the creation, commit, and rollback of the transaction.
+
+In the case of a proxy, Spring ignores _@Transactional_ in internal method calls.
+
+Simply put, if we have a method like _callMethod_ and we mark it as _@Transactional,_ Spring will wrap some transaction management code around the invocation_@Transactional_ method called:
+
+```java
+createTransactionIfNecessary();
+try {
+    callMethod();
+    commitTransactionAfterReturning();
+} catch (exception) {
+    completeTransactionAfterThrowing();
+    throw exception;
+}
+```
+
+#### [2. How to Use _@Transactional_](https://www.baeldung.com/spring-transactional-propagation-isolation#2-how-to-use-transactional)
+
+We can put the annotation on definitions of interfaces, classes, or directly on methods.  They override each other according to the priority order; from lowest to highest we have: interface, superclass, class, interface method, superclass method, and class method.
+
+**Spring applies the class-level annotation to all public methods of this class that we did not annotate with _@Transactional_.**
+
+**However, if we put the annotation on a private or protected method, Spring will ignore it without an error.**
+
+Let’s start with an interface sample:
+
+```java
+@Transactional
+public interface TransferService {
+    void transfer(String user1, String user2, double val);
+}
+```
+
+Usually it’s not recommended to set _@Transactional_ on the interface; however, it is acceptable for cases like _@Repository_ with Spring Data. We can put the annotation on a class definition to override the transaction setting of the interface/superclass:
+
+```java
+@Service
+@Transactional
+public class TransferServiceImpl implements TransferService {
+    @Override
+    public void transfer(String user1, String user2, double val) {
+        // ...
+    }
+}
+```
+
+Now let’s override it by setting the annotation directly on the method:
+
+```java
+@Transactional
+public void transfer(String user1, String user2, double val) {
+    // ...
+}
+```
 
 ---
 ### [**Potential Pitfalls**](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring#pitfalls)
@@ -180,6 +237,17 @@ public void createCourseDefaultRatingProgramatic(Course course) {
 
 The **d****eclarative rollback strategy should be favored over the programmatic rollback strategy**.
 
+#### **6. Checked Exceptions**
+
+> [!example] <aside><img src="https://www.notion.so/icons/skull_purple.svg" alt="https://www.notion.so/icons/skull_purple.svg" width="40px" /> </aside> @Transaction + CheckedException
+> ---
+> Note that by default, rollback happens for runtime, unchecked exceptions only.
+> 
+> **The checked exception does not trigger a rollback** of the transaction.
+> 
+> We can, of course, configure this behavior with the _rollbackFor_ and _noRollbackFor_ annotation parameters.
+
+
 ---
 ## [**Conclusion**](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring#conclusion)
 
@@ -190,3 +258,6 @@ As always, the code presented in this article is available [over on Github](http
 ---
 ***References***
 - [Baeldung article](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
+- [Baeldung article](https://www.baeldung.com/spring-transactional-propagation-isolation)
+
+
