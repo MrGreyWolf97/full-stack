@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JVM/JAVA/README.md",
+                "file": "JVM/JAVA/Object Properties (don’t exist).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5110321044922
+    "width": 298.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5f4b357665513b14",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM/JAVA/README.md",
+                "file": "JVM/JAVA/Object Properties (don’t exist).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JVM/JAVA/README.md",
+                "file": "JVM/JAVA/Object Properties (don’t exist).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM/JAVA/README.md"
+                "file": "JVM/JAVA/Object Properties (don’t exist).md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,10 +150,16 @@
   },
   "active": "4c59597a4a0ef80a",
   "lastOpenFiles": [
-    "JVM/JAVA/IPAE - The four fundamental principles of OOP/README.md",
     "JVM/JAVA/README.md",
-    "JVM/JAVA/Differences Java - Other languages 1c05734c82234f2b9576d741a42c7bc0.md",
     "JVM/README.md",
+    "README.md",
+    "Data structures.md",
+    "JVM/JAVA/List → ArrayList, LinkedList.md",
+    "JVM/JAVA/Collections/README.md",
+    "JVM/JAVA/PECS Principle.md",
+    "JVM/JAVA/ExecutorService → Thread-pool, Callable.md",
+    "JVM/JAVA/IPAE - The four fundamental principles of OOP/README.md",
+    "JVM/JAVA/Differences Java - Other languages.md",
     "In-memory DB.md",
     "Spring/Injection -> Multiple Classes, Same Interface.md",
     "Spring/Spring Boot.md",
@@ -171,13 +177,7 @@
     "Relational/DBMS/Postgres/Overview.md",
     "Relational/DBMS/Postgres/00 - postgresql-16-A4.pdf",
     "Relational/DBMS/Postgres/Functionalities/Commands documentation.md",
-    "Functionalities%2FCommands documentation.md",
-    "Functionalities%2F02. Group %26 Roles.md",
-    "Relational/DBMS/Postgres/Functionalities/02. Group & Roles.md",
-    "Functionalities/02. Group %26 Roles.md",
     "Functionalities",
-    "Relational/DBMS/Postgres/Functionalities/01. Navigating.md",
-    "Relational/DBMS/Postgres/Functionalities/00. Install Postgres.md",
     "Relational/DBMS/Postgres/Functionalities",
     "Relational/DBMS/Postgres",
     "Relational/DBMS/Comparison",

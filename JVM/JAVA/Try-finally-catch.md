@@ -55,7 +55,7 @@ public class Main {
 1. Use `try-catch-finally` when you need to handle exceptions and **perform cleanup tasks**, such as closing resources, releasing locks, or rolling back transactions.
 2. Always close resources in the `finally` block or use the ***try-with-resources*** statement (Java 7 and later), which automatically closes resources when the try block exits.
     
-    [Try-with-resources](Try-with-resources%204e8f9e86294c4e32a64a52c471e7c4af.md)
+    [Try-with-resources](Try-with-resources.md)
     
 3. Keep the `try` block focused on the code that might throw exceptions and avoid mixing it with other unrelated code.
 4. Catch only the specific exceptions you can handle and let the others propagate up the call stack to be handled elsewhere.

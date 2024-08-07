@@ -19,4 +19,4 @@
 [Sharding](Sharding.md)
 [Table, View, Materialized views](Table,%20View,%20Materialized%20views.md)
 
-[Indici (HashSet vs TreeSet) → lati positivi e negativi (space allocation, speeding queries)](Indici%20(HashSet%20vs%20TreeSet)%20→%20lati%20positivi%20e%20nega.md)
+[Indici (HashSet vs TreeSet) → lati positivi e negativi (space allocation, speeding queries)](Indici%20(HashSet%20vs%20TreeSet).md)

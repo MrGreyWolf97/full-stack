@@ -2,7 +2,9 @@
 
 In Java, there is no direct support for object properties defined by getter and setter methods, unlike in C# or other languages.
 
-[However, there is a convention called **Bean properties** that mimics the behavior of properties using standard methods1](https://www.geeksforgeeks.org/getter-and-setter-in-java/). According to this convention, any method that starts with **`get`**, takes no arguments, and returns a value is considered a property getter.
+[However, there is a convention called **Bean properties** that mimics the behavior of properties using standard methods1](https://www.geeksforgeeks.org/getter-and-setter-in-java/).
+
+According to this convention, any method that starts with **`get`**, takes no arguments, and returns a value is considered a property getter.
 
 Similarly, any method that starts with **`set`**, takes one argument, and returns void is considered a property setter. The name of the property is derived from the rest of the method name, with the first letter lowercased. For example:
 

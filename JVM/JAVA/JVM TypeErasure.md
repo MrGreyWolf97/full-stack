@@ -2,7 +2,7 @@
 
 ***Type Erasure*** is a process in Java that removes type parameters and replaces them with their bounding types or Object when compiling generic code.
 
-[Generics (upper/lower bound)](Generics%20(upper%20lower%20bound)%20bf90908165ff4ebf9a3b6201252b123a.md)
+[Generics (upper/lower bound)](Generics%20(upper%20lower%20bound).md)
 
 It is used to maintain backward compatibility with older versions of Java that do not support generics (Java versions before 1.5).
 
@@ -104,7 +104,7 @@ In this example, you cannot use `value instanceof String` because the type inf
 
 Type erasure prevents you from creating arrays of generic types directly because Java needs to know the exact type of the array elements at runtime.
 
-[Java Arrays’ Type](Java%20Arrays%E2%80%99%20Type%20b0484def70af427db87c8fb599557bdf.md)
+[Java Arrays’ Type](Java%20Arrays’%20Type.md)
 
 ```java
 public class GenericBox<T> {

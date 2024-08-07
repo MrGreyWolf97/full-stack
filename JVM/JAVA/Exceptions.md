@@ -47,6 +47,6 @@ When throwing exceptions, it is important to follow best practices such as:
 
 ---
 
-[Try-finally-catch](Try-finally-catch%2066c6ba68df3548e0bbe6d6644d6b6b63.md)
+[Try-finally-catch](Try-finally-catch.md)
 
-[Try-with-resources](Try-with-resources%204e8f9e86294c4e32a64a52c471e7c4af.md)
+[Try-with-resources](Try-with-resources.md)

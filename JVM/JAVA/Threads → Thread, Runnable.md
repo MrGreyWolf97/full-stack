@@ -74,7 +74,7 @@ This provides more flexibility in your class hierarchy.
 <aside>
 <img src="https://www.notion.so/icons/skull_purple.svg" alt="https://www.notion.so/icons/skull_purple.svg" width="40px" /> See the Callable interface to implement tasks with a return value or which need to be able to throw an Exception.
 
-[ExecutorService → [Thread-pool, Callable]](ExecutorService%20%E2%86%92%20%5BThread-pool,%20Callable%5D%20f9da364fb07748008377747c8c7c74c5.md)
+[ExecutorService → Thread-pool, Callable](ExecutorService%20→%20Thread-pool,%20Callable.md)
 
 </aside>
 

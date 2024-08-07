@@ -67,6 +67,6 @@ public static void addIntegersToList(List<? super Integer> list, Integer... inte
     - If a method produces data (returns or reads from a collection), use the "? extends T" wildcard.
     - If a method consumes data (accepts or writes to a collection), use the "? super T" wildcard.
     
-    [PECS Principle](PECS%20Principle%200c7e3fc6522f4a91b7a2d559ac099e50.md)
+    [PECS Principle](PECS%20Principle.md)
     
 </aside>

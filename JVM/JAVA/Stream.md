@@ -71,4 +71,4 @@ However, the choice between Streams and Iterators depends on the specific use ca
 
 ---
 
-[Parallel Streams](Parallel%20Streams%2081cdad9d2cff4e0cb9d747fbfa22fc74.md)
+[Parallel Streams](Parallel%20Streams.md)
