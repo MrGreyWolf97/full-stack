@@ -5,7 +5,7 @@
 > - [JDBC](Required%20knowledge/JDBC)
 > - [ORM](Required%20knowledge/ORM)
 > --- 
-> => [Overview](Overview.md)
+> => [Overview](JPA%20&%20ORMs/Overview.md)
 
 ---
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational/README.md",
+                "file": "Relational/DBMS/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational/README.md",
+                "file": "Relational/DBMS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational/README.md",
+                "file": "Relational/DBMS/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relational/README.md"
+                "file": "Relational/DBMS/README.md"
               }
             }
           }
@@ -147,44 +147,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c59597a4a0ef80a",
+  "active": "3d01fc62097e77ef",
   "lastOpenFiles": [
-    "Relational/databases/Relational/Postgres/Commands/Commands palette.md",
-    "Relational/databases/Relational/Postgres/Commands/02. Group & Roles.md",
-    "Relational/databases/Relational/Postgres/Commands/02. Create Schema.md",
-    "Relational/databases/Relational/Postgres/Commands/01. Navigating.md",
-    "Relational/databases/Relational/Postgres/Commands/00. Install Postgres.md",
-    "Relational/databases/Relational/Postgres/Overview.md",
-    "Relational/databases/Relational/Postgres/Commands",
-    "Relational/databases/Relational/Postgres/00 - postgresql-16-A4.pdf",
-    "Relational/databases/Relational/Comparison/Schema vs Database.md",
-    "Relational/databases/Relational/Comparison/PostgreSQL vs Oracle.md",
-    "Relational/databases/Relational/Postgres",
-    "Relational/databases/Relational/Comparison",
-    "Relational/databases/Relational/ANSI SQL.md",
-    "Relational/databases/Non Relational/Untitled.md",
-    "Relational/databases/Relational",
+    "Relational/DBMS/Postgres/README.md",
+    "Relational/DBMS/README.md",
+    "[.md",
+    "Relational/README.md",
+    "PostgreSQL isolation level.md",
+    "Relational/ANSI SQL.md",
+    "Relational/DBMS/Postgres/Overview.md",
+    "Relational/DBMS/Postgres/00 - postgresql-16-A4.pdf",
+    "Relational/DBMS/Postgres/Functionalities/Commands documentation.md",
+    "Functionalities%2FCommands documentation.md",
+    "Functionalities%2F02. Group %26 Roles.md",
+    "Relational/DBMS/Postgres/Functionalities/02. Group & Roles.md",
+    "Functionalities/02. Group %26 Roles.md",
+    "Functionalities",
+    "Relational/DBMS/Postgres/Functionalities/01. Navigating.md",
+    "Relational/DBMS/Postgres/Functionalities/00. Install Postgres.md",
+    "Commands%2F00. Install Postgres.md",
     "Relational/databases/README.md",
+    "Relational/DBMS/Postgres/Functionalities/03. Create Schema.md",
+    "Relational/DBMS/Postgres/Functionalities",
+    "Relational/DBMS/Comparison/Schema vs Database.md",
+    "Relational/DBMS/Comparison/PostgreSQL vs Oracle.md",
+    "Relational/DBMS/Postgres",
+    "Relational/DBMS/Comparison",
+    "Relational/databases/Non Relational/Untitled.md",
+    "Relational/DBMS",
     "Relational/databases/Non Relational",
     "Relational/databases/FAQ",
     "Relational/databases",
     "Relational/PostgreSQL isolation level.md",
-    "Relational/README.md",
     "Relational/Isolation Transactional isolation levels.md",
     "README.md",
     "MVC.md",
     "JPA & ORMs/README.md",
     "Relational/Table, View, Materialized views.md",
-    "JVM/KOTLIN/Kotlin vs Java.md",
-    "JVM/KOTLIN/Comparison.md",
-    "JVM/KOTLIN/Collections.md",
     "Google Interview/Google_Interview_Prep_Guide_SWE.pdf",
-    "Google Interview/Data structures.md",
-    "JPA & ORMs/Lombock + Hibernate.md",
-    "JPA & ORMs/Required knowledge/ORM.md",
-    "JPA & ORMs/Required knowledge/JDBC.md",
-    "JPA & ORMs/Required knowledge/DBMS.md",
-    "JPA & ORMs/orm_doc/FAQ",
     "JSF - Jakarta Server Faces/Hello World bf6b264457e241d39244b6c2cc27ac43/Untitled.png",
     "Relational/Atomicity/Untitled.png",
     "JVM/JAVA/Collections/Untitled.png",
